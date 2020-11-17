@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tacklebac-dev-220826-authRole",
+      "UnauthRoleArn": "arn:aws:iam::599732740298:role/amplify-tacklebac-dev-220826-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::599732740298:role/amplify-tacklebac-dev-220826-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-tacklebac-dev-220826-deployment",
+      "UnauthRoleName": "amplify-tacklebac-dev-220826-unauthRole",
+      "StackName": "amplify-tacklebac-dev-220826",
+      "StackId": "arn:aws:cloudformation:eu-west-1:599732740298:stack/amplify-tacklebac-dev-220826/6cc76ac0-2921-11eb-9b62-064e1afe3404",
+      "AmplifyAppId": "d3r40eaee7e7lu"
+    }
+  }
+}
