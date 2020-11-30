@@ -2,3 +2,7 @@ This a Log to Keep Records of and changes to the Project
 This file will also be used to insert any resources used or contributed to the project
 Making the Log file out if sync on local
 corrected Local now editing to make github out of sync
+
+28th Got so far on the college laptop, but too restricted and cannot install hardware needed for my project, not realistic to login to lab computer, if cannot connect hardware.
+
+30th November- FTDI prograqmmer for ESP32-CAM arrived today (damaged), have to rework the usb port to get working.
