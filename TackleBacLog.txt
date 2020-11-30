@@ -3,6 +3,16 @@ This file will also be used to insert any resources used or contributed to the p
 Making the Log file out if sync on local
 corrected Local now editing to make github out of sync
 
+
 28th Got so far on the college laptop, but too restricted and cannot install hardware needed for my project, not realistic to login to lab computer, if cannot connect hardware.
 
 30th November- FTDI prograqmmer for ESP32-CAM arrived today (damaged), have to rework the usb port to get working.
+=======
+28th Got so far on the college laptop, but too restricted and cannot install hardware needed for my project, not 
+
+realistic to login to lab computer, if cannot connect hardware.
+
+30th November- FTDI prograqmmer for ESP32-CAM arrived today (damaged), have to rework the usb port to get 
+
+working.
+b1868e145cdd55cd466e52c57bb6a2b6e4a6499f
