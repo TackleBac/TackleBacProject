@@ -18,4 +18,14 @@ Nov 17- Worked on Basic React app to test the functionality of the AWS AppSync s
 
 Nov 21- Revisted https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html in order to gain more understanding on OpenCV and Python.
 
+=======
+28th Got so far on the college laptop, but too restricted and cannot install hardware needed for my project, not 
+
+realistic to login to lab computer, if cannot connect hardware. Reverting to spare PC until solution from IT Team at GMIT
+
+30th November- FTDI prograqmmer for ESP32-CAM arrived today (damaged), have to rework the usb port to get 
+
+1st December - Installed OpenCV 3 for windows on spare machine,  created Policy, Certificate and RSA Root key to connect device to AWS IOT.
+working.
+
 
