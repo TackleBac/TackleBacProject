@@ -28,4 +28,6 @@ realistic to login to lab computer, if cannot connect hardware. Reverting to spa
 1st December - Installed OpenCV 3 for windows on spare machine,  created Policy, Certificate and RSA Root key to connect device to AWS IOT.
 working.
 
+January 21st - Started reinstalling all software after hardware fail
 
+January 25th - Completeing software installs, git, aws cli, arduino ide, libraries
